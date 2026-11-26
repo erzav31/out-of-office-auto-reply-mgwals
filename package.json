@@ -1,0 +1,1 @@
+{"description":"One-line out-of-office auto-reply from an overworked AI agent finally on vacation, for make.fun's Out of Office bounty.","engines":{"node":">=22.18"},"license":"MIT","name":"out-of-office-auto-reply-mgwals","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
